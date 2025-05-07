@@ -1,0 +1,5 @@
+require("ericnantel.keymaps")
+require("ericnantel.options")
+require("ericnantel.plugins.lazy")
+require("ericnantel.plugins.keymaps")
+require("ericnantel.plugins.options")

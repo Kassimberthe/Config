@@ -1,0 +1,6 @@
+2025/05/06-00:36:25.218 e00 Creating DB /home/kassim/.config/google-chrome/Default/WebStorage/15/IndexedDB/indexeddb.leveldb since it was missing.
+2025/05/06-00:36:25.226 e00 Reusing MANIFEST /home/kassim/.config/google-chrome/Default/WebStorage/15/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/05/06-00:36:33.456 e01 Level-0 table #5: started
+2025/05/06-00:36:33.458 e01 Level-0 table #5: 403 bytes OK
+2025/05/06-00:36:33.460 e01 Delete type=0 #3
+2025/05/06-00:36:33.460 e01 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

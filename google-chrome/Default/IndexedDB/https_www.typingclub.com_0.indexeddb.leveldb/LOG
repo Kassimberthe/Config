@@ -1,0 +1,6 @@
+2025/05/04-02:59:51.267 d5b Creating DB /home/kassim/.config/google-chrome/Default/IndexedDB/https_www.typingclub.com_0.indexeddb.leveldb since it was missing.
+2025/05/04-02:59:51.271 d5b Reusing MANIFEST /home/kassim/.config/google-chrome/Default/IndexedDB/https_www.typingclub.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/04-03:00:06.168 d5c Level-0 table #5: started
+2025/05/04-03:00:06.171 d5c Level-0 table #5: 387 bytes OK
+2025/05/04-03:00:06.173 d5c Delete type=0 #3
+2025/05/04-03:00:06.174 d5c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

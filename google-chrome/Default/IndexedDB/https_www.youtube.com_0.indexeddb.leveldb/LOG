@@ -1,0 +1,9 @@
+2025/05/05-23:50:34.514 e00 Reusing MANIFEST /home/kassim/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/05-23:50:34.514 e00 Recovering log #11
+2025/05/05-23:50:34.515 e00 Reusing old log /home/kassim/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000011.log 
+2025/05/05-23:50:37.287 e01 Compacting 1@1 + 1@2 files
+2025/05/05-23:50:37.296 e01 Generated table #14@1: 365 keys, 72425 bytes
+2025/05/05-23:50:37.296 e01 Compacted 1@1 + 1@2 files => 72425 bytes
+2025/05/05-23:50:37.297 e01 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/05-23:50:37.298 e01 Delete type=2 #9
+2025/05/05-23:50:37.298 e01 Delete type=2 #12
