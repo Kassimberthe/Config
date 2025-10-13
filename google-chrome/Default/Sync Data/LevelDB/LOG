@@ -1,15 +1,3 @@
-2025/05/07-19:05:15.913 2b74 Reusing MANIFEST /home/kassim/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2025/05/07-19:05:15.926 2b74 Recovering log #26
-2025/05/07-19:05:15.937 2b74 Reusing old log /home/kassim/.config/google-chrome/Default/Sync Data/LevelDB/000026.log 
-2025/05/07-19:29:06.705 2b73 Level-0 table #30: started
-2025/05/07-19:29:06.714 2b73 Level-0 table #30: 100239 bytes OK
-2025/05/07-19:29:06.719 2b73 Delete type=0 #26
-2025/05/07-19:29:06.721 2b74 Compacting 4@0 + 1@1 files
-2025/05/07-19:29:06.732 2b74 Generated table #31@0: 113 keys, 27477 bytes
-2025/05/07-19:29:06.732 2b74 Compacted 4@0 + 1@1 files => 27477 bytes
-2025/05/07-19:29:06.734 2b74 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/05/07-19:29:06.734 2b74 Delete type=2 #30
-2025/05/07-19:29:06.734 2b74 Delete type=2 #21
-2025/05/07-19:29:06.735 2b74 Delete type=2 #24
-2025/05/07-19:29:06.735 2b74 Delete type=2 #18
-2025/05/07-19:29:06.735 2b74 Delete type=2 #27
+2025/10/13-23:40:01.329 1208 Reusing MANIFEST /home/kassim/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/10/13-23:40:01.340 1208 Recovering log #42
+2025/10/13-23:40:01.346 1208 Reusing old log /home/kassim/.config/google-chrome/Default/Sync Data/LevelDB/000042.log 

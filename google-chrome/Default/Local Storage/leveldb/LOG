@@ -1,12 +1,6 @@
-2025/05/07-19:05:15.944 4 Reusing MANIFEST /home/kassim/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2025/05/07-19:05:15.954 4 Recovering log #116
-2025/05/07-19:05:15.956 4 Reusing old log /home/kassim/.config/google-chrome/Default/Local Storage/leveldb/000116.log 
-2025/05/07-19:09:12.199 5 Level-0 table #121: started
-2025/05/07-19:09:12.203 5 Level-0 table #121: 22220 bytes OK
-2025/05/07-19:09:12.206 5 Delete type=0 #116
-2025/05/07-19:10:03.012 5 Level-0 table #123: started
-2025/05/07-19:10:03.018 5 Level-0 table #123: 57641 bytes OK
-2025/05/07-19:10:03.021 5 Delete type=0 #120
-2025/05/07-19:19:19.041 5 Level-0 table #125: started
-2025/05/07-19:19:19.045 5 Level-0 table #125: 18476 bytes OK
-2025/05/07-19:19:19.049 5 Delete type=0 #122
+2025/10/13-23:40:01.347 5 Reusing MANIFEST /home/kassim/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2025/10/13-23:40:01.360 5 Recovering log #74
+2025/10/13-23:40:01.362 5 Reusing old log /home/kassim/.config/google-chrome/Default/Local Storage/leveldb/000074.log 
+2025/10/13-23:41:01.370 7 Level-0 table #79: started
+2025/10/13-23:41:01.374 7 Level-0 table #79: 20519 bytes OK
+2025/10/13-23:41:01.376 7 Delete type=0 #74

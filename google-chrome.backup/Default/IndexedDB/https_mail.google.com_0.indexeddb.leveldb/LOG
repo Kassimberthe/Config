@@ -1,0 +1,15 @@
+2025/05/06-23:22:53.987 e00 Reusing MANIFEST /home/kassim/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/06-23:22:53.987 e00 Recovering log #4
+2025/05/06-23:22:53.996 e00 Reusing old log /home/kassim/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2025/05/06-23:23:12.776 e01 Level-0 table #8: started
+2025/05/06-23:23:12.822 e01 Level-0 table #8: 3202788 bytes OK
+2025/05/06-23:23:12.828 e01 Delete type=0 #4
+2025/05/06-23:25:25.779 e01 Compacting 1@1 + 1@2 files
+2025/05/06-23:25:25.806 e01 Generated table #9@1: 180 keys, 680852 bytes
+2025/05/06-23:25:25.806 e01 Compacted 1@1 + 1@2 files => 680852 bytes
+2025/05/06-23:25:25.807 e01 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/06-23:25:25.808 e01 Delete type=2 #8
+2025/05/06-23:25:25.808 e01 Delete type=2 #5
+2025/05/06-23:25:39.066 e01 Level-0 table #11: started
+2025/05/06-23:25:39.119 e01 Level-0 table #11: 3219096 bytes OK
+2025/05/06-23:25:39.122 e01 Delete type=0 #7

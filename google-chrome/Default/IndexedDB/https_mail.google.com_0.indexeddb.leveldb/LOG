@@ -1,15 +1,24 @@
-2025/05/06-23:22:53.987 e00 Reusing MANIFEST /home/kassim/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/05/06-23:22:53.987 e00 Recovering log #4
-2025/05/06-23:22:53.996 e00 Reusing old log /home/kassim/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
-2025/05/06-23:23:12.776 e01 Level-0 table #8: started
-2025/05/06-23:23:12.822 e01 Level-0 table #8: 3202788 bytes OK
-2025/05/06-23:23:12.828 e01 Delete type=0 #4
-2025/05/06-23:25:25.779 e01 Compacting 1@1 + 1@2 files
-2025/05/06-23:25:25.806 e01 Generated table #9@1: 180 keys, 680852 bytes
-2025/05/06-23:25:25.806 e01 Compacted 1@1 + 1@2 files => 680852 bytes
-2025/05/06-23:25:25.807 e01 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/05/06-23:25:25.808 e01 Delete type=2 #8
-2025/05/06-23:25:25.808 e01 Delete type=2 #5
-2025/05/06-23:25:39.066 e01 Level-0 table #11: started
-2025/05/06-23:25:39.119 e01 Level-0 table #11: 3219096 bytes OK
-2025/05/06-23:25:39.122 e01 Delete type=0 #7
+2025/10/04-22:22:09.170 12fa Reusing MANIFEST /home/kassim/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/04-22:22:09.170 12fa Recovering log #10
+2025/10/04-22:22:09.171 12fa Reusing old log /home/kassim/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000010.log 
+2025/10/04-22:22:12.435 12fc Compacting 1@1 + 1@2 files
+2025/10/04-22:22:12.446 12fc Generated table #13@1: 83 keys, 220787 bytes
+2025/10/04-22:22:12.446 12fc Compacted 1@1 + 1@2 files => 220787 bytes
+2025/10/04-22:22:12.447 12fc compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/04-22:22:12.447 12fc Delete type=2 #8
+2025/10/04-22:22:12.448 12fc Delete type=2 #11
+2025/10/04-22:22:24.797 12fa Level-0 table #15: started
+2025/10/04-22:22:24.844 12fa Level-0 table #15: 3203742 bytes OK
+2025/10/04-22:22:24.848 12fa Delete type=0 #10
+2025/10/05-11:59:30.722 12fc Level-0 table #17: started
+2025/10/05-11:59:30.788 12fc Level-0 table #17: 3219632 bytes OK
+2025/10/05-11:59:30.794 12fc Delete type=0 #14
+2025/10/08-13:20:16.652 12fc Compacting 1@0 + 1@1 files
+2025/10/08-13:20:16.787 12fc Generated table #18@0: 1272 keys, 1525609 bytes
+2025/10/08-13:20:16.788 12fc Compacted 1@0 + 1@1 files => 1525609 bytes
+2025/10/08-13:20:16.789 12fc compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/08-13:20:16.790 12fc Delete type=2 #17
+2025/10/08-13:20:16.790 12fc Delete type=2 #15
+2025/10/08-13:20:32.413 12fc Level-0 table #20: started
+2025/10/08-13:20:32.447 12fc Level-0 table #20: 3163993 bytes OK
+2025/10/08-13:20:32.449 12fc Delete type=0 #16

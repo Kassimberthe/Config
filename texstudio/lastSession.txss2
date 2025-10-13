@@ -1,0 +1,40 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "../../../../tmp/texstudio_coYJJD.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "../../Téléchargements/Honneur_attestation.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 1,
+                "EditorGroup": 0,
+                "FileName": "../../Documents/processus_ponctuel/DM_kassim_berthé2.tex",
+                "FirstLine": 173,
+                "FoldedLines": "",
+                "Line": 197
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../Documents/Modele_latex/Main_entete.tex",
+                "FirstLine": 514,
+                "FoldedLines": "",
+                "Line": 765
+            },
+            {
+                "Col": 89,
+                "EditorGroup": 0,
+                "FileName": "../../Téléchargements/Honneur_attestation.tex",
+                "FirstLine": 6,
+                "FoldedLines": "",
+                "Line": 22
+            }
+        ],
+        "MasterFile": "",
+        "VerticalSplit": true
+    }
+}

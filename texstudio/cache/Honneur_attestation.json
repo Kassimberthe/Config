@@ -1,0 +1,27 @@
+{
+    "bibitems": [
+    ],
+    "bibtexfiles": [
+    ],
+    "childdocs": [
+    ],
+    "filename": "/home/kassim/Téléchargements/Honneur_attestation.tex",
+    "labels": [
+    ],
+    "modified": "mer. oct. 8 00:02:10 2025",
+    "packages": [
+        "12pt,a4paper#latex-document",
+        "12pt,a4paper#tex",
+        "french#babel",
+        "#geometry",
+        "utf8#inputenc",
+        "#setspace",
+        "T1#fontenc"
+    ],
+    "refs": [
+    ],
+    "toc": [
+    ],
+    "usercommands": [
+    ]
+}

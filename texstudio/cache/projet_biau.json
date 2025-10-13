@@ -1,0 +1,58 @@
+{
+    "bibitems": [
+    ],
+    "bibtexfiles": [
+    ],
+    "childdocs": [
+    ],
+    "filename": "/media/kassim/DATA/der_ubuntu_file/Téléchargements/WhatSie/projet_biau.tex",
+    "labels": [
+    ],
+    "modified": "ven. janv. 10 20:13:07 2025",
+    "packages": [
+        "#amsthm",
+        "#amssymb",
+        "#amsmath",
+        "utf8#inputenc",
+        "T1#fontenc",
+        "#geometry",
+        "#graphicx",
+        "#mathrsfs",
+        "#latex-document",
+        "#tex",
+        "#amssymb",
+        "#ragged2e",
+        "#setspace",
+        "#graphicx",
+        "#enumitem",
+        "#sectsty",
+        "#hyperref",
+        "#nameref",
+        "#xcolor"
+    ],
+    "refs": [
+    ],
+    "toc": [
+        "2#Introduction#37",
+        "2#Cadre bay\\'esien#43",
+        "2#M\\'ethodes Variationnelle de Bayes#59",
+        "3#Approche mean field#93",
+        "3#Algorithme EM variationnelle#110",
+        "3#Étape E variationnelle#113",
+        "3#Étape M variationnelle#125"
+    ],
+    "usercommands": [
+        "lemma",
+        "lemma",
+        "proposition",
+        "proposition",
+        "corollary",
+        "corollary",
+        "definition",
+        "definition",
+        "preuve",
+        "preuve",
+        "theorem",
+        "theorem"
+    ]
+}

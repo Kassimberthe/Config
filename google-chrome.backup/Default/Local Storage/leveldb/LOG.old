@@ -1,0 +1,24 @@
+2025/05/06-18:55:51.866 4 Reusing MANIFEST /home/kassim/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2025/05/06-18:55:51.879 4 Recovering log #106
+2025/05/06-18:55:51.882 4 Reusing old log /home/kassim/.config/google-chrome/Default/Local Storage/leveldb/000106.log 
+2025/05/06-18:59:06.967 6 Level-0 table #111: started
+2025/05/06-18:59:06.974 6 Level-0 table #111: 17378 bytes OK
+2025/05/06-18:59:06.979 6 Delete type=0 #106
+2025/05/06-19:04:29.589 6 Level-0 table #113: started
+2025/05/06-19:04:29.592 6 Level-0 table #113: 15034 bytes OK
+2025/05/06-19:04:29.595 6 Delete type=0 #110
+2025/05/06-19:07:06.967 6 Level-0 table #115: started
+2025/05/06-19:07:06.973 6 Level-0 table #115: 15027 bytes OK
+2025/05/06-19:07:06.977 6 Delete type=0 #112
+2025/05/06-23:20:48.290 6 Level-0 table #117: started
+2025/05/06-23:20:48.296 6 Level-0 table #117: 17560 bytes OK
+2025/05/06-23:20:48.310 6 Delete type=0 #114
+2025/05/06-23:20:48.311 4 Compacting 4@0 + 1@1 files
+2025/05/06-23:20:48.327 4 Generated table #118@0: 356 keys, 298845 bytes
+2025/05/06-23:20:48.327 4 Compacted 4@0 + 1@1 files => 298845 bytes
+2025/05/06-23:20:48.329 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/06-23:20:48.330 4 Delete type=2 #108
+2025/05/06-23:20:48.330 4 Delete type=2 #115
+2025/05/06-23:20:48.330 4 Delete type=2 #113
+2025/05/06-23:20:48.330 4 Delete type=2 #117
+2025/05/06-23:20:48.330 4 Delete type=2 #111
