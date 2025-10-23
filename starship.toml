@@ -67,16 +67,23 @@ symbol = " "
 symbol = " "
 
 [git_status]
-format = '([\[$all_status$ahead_behind\]]($style) )'
-stashed = "[${count}*](green)" 
-modified = "[${count}+](yellow)" 
+#format = '([\[$all_status$ahead_behind\]]($style) )'
+#format = '[(\[$all_status$ahead_behind\])](green) '  # <-- crochets verts
+format = '[(\[$all_status$ahead_behind\])](#00ffff) '
+#stashed = "[${count}*](green)" 
+stashed = "[${count}*](#008080)"       # Stash = couleur 141
+#modified = "[${count}+](yellow)" 
+#modified = "[${count}+](red)"
+modified = "[${count}+](#ff66cc)"      # Modifié = couleur 117
 deleted =  "[${count}-](red)" 
-conflicted =  "[${count}~](red)" 
+#conflicted =  "[${count}~](red)" 
+conflicted = "[${count}~](#ff00ff)"     # Conflit = magenta
 ahead = "⇡${count}"
 behind = "⇣${count}"
-untracked = "[${count}?](blue)" 
-staged = "[${count}+](green)" 
-
+#untracked = "[${count}?](blue)" 
+untracked = "[${count}?](#ffff00)" 
+#staged = "[${count}+](green)" 
+staged = "[${count}+](#55ff00)"        # Staged = couleur 393
 [git_state]
 style =	"bold red"
 format = "[$state( $progress_current/$progress_total) ]($style)"
