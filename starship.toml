@@ -78,8 +78,10 @@ modified = "[${count}+](#ff66cc)"      # Modifié = couleur 117
 deleted =  "[${count}-](red)" 
 #conflicted =  "[${count}~](red)" 
 conflicted = "[${count}~](#ff00ff)"     # Conflit = magenta
-ahead = "⇡${count}"
-behind = "⇣${count}"
+#ahead = "⇡${count}"
+ahead = "[⇡${count}](#ffffff)"     # flèche vers le haut en blanc
+#behind = "⇣${count}"
+behind = "[⇣${count}](#000000)"    # flèche vers le bas en noir
 #untracked = "[${count}?](blue)" 
 untracked = "[${count}?](#ffff00)" 
 #staged = "[${count}+](green)" 
